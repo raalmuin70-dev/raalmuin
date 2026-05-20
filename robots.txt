@@ -1,0 +1,5 @@
+# Ganti domain-anda.com dengan domain asli setelah website online.
+User-agent: *
+Allow: /
+
+Sitemap: https://domain-anda.com/sitemap.xml

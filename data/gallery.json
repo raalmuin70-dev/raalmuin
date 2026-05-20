@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Kegiatan belajar bersama guru",
+    "label": "Foto utama",
+    "image": "",
+    "featured": true
+  },
+  {
+    "title": "Sentra Qur'an",
+    "label": "Foto 1",
+    "image": ""
+  },
+  {
+    "title": "Bermain kreatif",
+    "label": "Foto 2",
+    "image": ""
+  },
+  {
+    "title": "Kegiatan outdoor",
+    "label": "Foto 3",
+    "image": ""
+  }
+]

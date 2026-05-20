@@ -1,0 +1,13 @@
+.DS_Store
+**/.DS_Store
+
+# Local editor files
+.vscode/
+
+# Design drafts and generated review screenshots
+screenshots/
+ChatGPT Image*.png
+
+# Temporary local exports
+*.tmp
+*.bak
