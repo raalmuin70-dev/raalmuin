@@ -430,7 +430,7 @@
       ].join("\n");
 
       dom.formStatus.textContent = "Membuka WhatsApp dengan pesan pendaftaran...";
-      window.open(`https://wa.me/6281234567890?text=${encodeURIComponent(message)}`, "_blank");
+      window.open(`https://wa.me/6287868181033?text=${encodeURIComponent(message)}`, "_blank");
     });
   };
 
